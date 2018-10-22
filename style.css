@@ -1,0 +1,62 @@
+body{
+  font-family:'IM Fell English', serif;
+  text-align:center;
+  min-width:260px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-image: url("https://image.pbs.org/video-assets/KETA/stateline/114611/images/mezzanine_804.jpg.focalcrop.1200x630.50.10.jpg");
+  background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	min-height: 100%;
+  }
+.jumbotron {
+		background-color: rgba(255,255,255,.95);
+}
+#main{
+  margin:30px auto;
+  padding:15px;
+  border:0px solid;
+  border-radius:5px;
+  background:"";
+}
+#title{
+   font-size: 63px;
+}
+#image{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+  position:relative;
+}
+#img-div{
+  margin:0px;
+  margin-top:20px;
+  width:100%;
+  border:10px solid white;
+  background:"";
+}
+#img-caption{
+  margin:15px;
+}
+#tribute-info{
+  
+}
+#headline{
+  margin-top:50px;
+  text-align:center;
+}
+ul{
+  max-width:80%;
+  margin:0 auto;
+  text-align:justify;
+  font-size:18px;
+}
+li{
+  margin: 15px;
+}
+blockquote{
+  font-style: italic;
+}
